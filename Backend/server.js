@@ -49,13 +49,13 @@ app.get('/', (req, res) => {
 });
 
 // Connect to MongoDB
-mongoose.connect(process.env.DB)
-  .then(() => {
-    console.log('DB Connected Successfully');
-  })
-  .catch((err) => {
-    console.error('DB Connection Error:', err.message);
-  });
+mongoose.connect(process.env.DB, {
+  serverSelectionTimeoutMS: 5000, // Fail fast if no connection
+  ssl: true, // Required for MongoDB Atlas
+  authSource: 'admin'
+})
+.then(() => console.log('DB Connected Successfully'))
+.catch(err => console.error('DB Connection Error:', err.message));
 
 // Start server
 app.listen(process.env.PORT || 3000, () => {
