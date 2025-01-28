@@ -12,7 +12,6 @@ A healthcare coordination platform connecting medical professionals with healthc
 - [Installation](#installation-wrench)
 - [Configuration](#configuration-gear)
 - [API Documentation](#api-documentation-books)
-- [Screenshots](#screenshots-framed_picture)
 - [Video Demo](#video-demo-movie_camera)
 - [Project Structure](#project-structure-open_file_folder)
 
@@ -78,16 +77,15 @@ GET  /api/shifts?status=open List available shifts
 POST /api/shifts             Create new shift
 PUT  /api/users/:id/verify   Verify professional credentials
 
-## screenshots-framed_picture
-
-Staff-Side:
-
-![Image](https://github.com/user-attachments/assets/d35f24c4-8b53-408d-a270-efe38644aec2)
 
 
 ## Video Demo :movie_camera:
 
 https://github.com/user-attachments/assets/cdd75138-ddc3-4982-a2a4-172e5c08d4f6
+
+Or you can check out the demo vedio on youtube channel
+
+https://youtu.be/0aUT17zPQA0?feature=shared
 
 ## Project Structure :open_file_folder:
 ├── backend
