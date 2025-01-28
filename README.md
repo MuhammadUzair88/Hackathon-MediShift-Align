@@ -12,6 +12,7 @@ A healthcare coordination platform connecting medical professionals with healthc
 - [Installation](#installation-wrench)
 - [Configuration](#configuration-gear)
 - [API Documentation](#api-documentation-books)
+- [Screenshots](#screenshots-framed_picture)
 - [Video Demo](#video-demo-movie_camera)
 - [Project Structure](#project-structure-open_file_folder)
 
@@ -77,9 +78,11 @@ GET  /api/shifts?status=open List available shifts
 POST /api/shifts             Create new shift
 PUT  /api/users/:id/verify   Verify professional credentials
 
+## screenshots-framed_picture
 
+Staff-Side:
 
-
+Screenshot-2025-01-28-125249.jpg
 
 ## Video Demo :movie_camera:
 
