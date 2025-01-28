@@ -78,7 +78,7 @@ POST /api/shifts             Create new shift
 PUT  /api/users/:id/verify   Verify professional credentials
 
 
-![image](https://github.com/user-attachments/assets/e8c0e821-54e2-499c-8216-1a746e85df5c)
+
 
 
 ## Video Demo :movie_camera:
