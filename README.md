@@ -82,7 +82,7 @@ PUT  /api/users/:id/verify   Verify professional credentials
 
 Staff-Side:
 
-![image alt](https://github.com/user-attachments/assets/72055089-03e1-4929-bfb4-49ab8b41bf5d)
+![image alt][(https://github.com/user-attachments/assets/72055089-03e1-4929-bfb4-49ab8b41bf5d)](https://github.com/MuhammadUzair88/Hackathon-MediShift-Align/blob/main/Screenshot-2025-01-28-125249.jpg?raw=true)
 
 
 ## Video Demo :movie_camera:
