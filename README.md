@@ -82,7 +82,7 @@ PUT  /api/users/:id/verify   Verify professional credentials
 
 Staff-Side:
 
-![Image](https://github.com/user-attachments/assets/37fc6560-ec23-4aa9-89c1-b76d9fff9474)
+![Image](https://github.com/user-attachments/assets/d35f24c4-8b53-408d-a270-efe38644aec2)
 
 
 ## Video Demo :movie_camera:
